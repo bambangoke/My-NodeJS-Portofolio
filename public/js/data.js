@@ -1,7 +1,7 @@
 const data = {
     nav: {
         title: {
-            text: `Louis Iaeger V`,
+            text: `Bambang Oke`,
             link: `#app`
         },
         navLinks: [{
